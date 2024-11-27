@@ -1,0 +1,10 @@
+{
+  "name": "LifeCoin",
+  "symbol": "LFC",
+  "description": "A utility token empowering personal growth and charitable causes.",
+  "image": "https://drive.google.com/file/d/1XLAlQZIGFI027I3vmT47rw7hGtmVzOGn/view?usp=drive_link",
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Empowering Life" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
